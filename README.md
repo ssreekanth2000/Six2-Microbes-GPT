@@ -1,2 +1,5 @@
-# Six2-Microbes-GPT
-Independent Study in Machine Learning project
+# Six-Microbes-GPT2
+
+### Independent Study in Machine Learning project
+
+
