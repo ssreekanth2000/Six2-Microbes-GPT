@@ -1,0 +1,19 @@
+FROM python:3.6.10
+
+RUN pip3 install google
+RUN pip3 install pdfkit
+RUN pip3 install flask
+RUN pip3 install flask-cors
+RUN apt-get update -y
+RUN apt-get install wkhtmltopdf -y
+RUN pip3 install bs4
+RUN pip3 install pandas
+RUN pip3 install requests
+RUN pip3 install clean-text
+ADD . .
+RUN pip3 install -r requirements-d.txt
+
+EXPOSE 9001
+CMD ["sh","runlearn.sh"]
+
+
