@@ -25,7 +25,7 @@ There're also a variety of monitoring tools that were bundled with the actual de
 
 
 
-Sometimes it does it well
+Sometimes it does its job well
 
 ![img1](https://github.com/ssreekanth2000/Six2-Microbes-GPT/blob/master/86272161_199320974595932_4155295273066692608_n.png)
 
