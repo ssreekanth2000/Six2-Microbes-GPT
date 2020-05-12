@@ -31,6 +31,7 @@ Sometimes it does it well
 
 
 ![img1](https://github.com/ssreekanth2000/Six2-Microbes-GPT/blob/master/84582705_187351392539854_6156979714968780800_n.png)
+![img1](https://github.com/ssreekanth2000/Six2-Microbes-GPT/blob/master/84582705_187351392539854_6156979714968780800_n.png)
 
 Sometimes it does not
 
